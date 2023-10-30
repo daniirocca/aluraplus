@@ -1,4 +1,4 @@
-# Aluar+ Olá, Bem vindo ao meu projeto alura+.
+# Alura+ Olá, Bem vindo ao meu projeto alura+.
 
 ![](https://raw.githubusercontent.com/daniirocca/aluraplus/main/aluraplus.png)
 
